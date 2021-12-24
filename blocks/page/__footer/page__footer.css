@@ -1,0 +1,9 @@
+.page__footer {
+    margin: 0 auto 24px;
+  }
+  
+  @media screen and (max-width: 400px) {
+    .page__footer {
+      margin: 0 0 25px 16px;
+    }
+  }

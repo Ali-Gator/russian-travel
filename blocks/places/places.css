@@ -1,0 +1,23 @@
+/* Plases' styles */
+
+.places {
+    max-width: 984px;
+  }
+  
+  @media screen and (max-width: 1200px) {
+    .places {
+      max-width: 91%;
+    }
+  }
+  
+  @media screen and (max-width: 800px) {
+    .places {
+      max-width: 94%;
+    }
+  }
+  
+  @media screen and (max-width: 400px) {
+    .places {
+      max-width: 100%;
+    }
+  }

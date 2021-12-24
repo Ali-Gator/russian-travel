@@ -1,0 +1,27 @@
+/* Header's styles */
+
+.header {
+    max-width: 1184px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: flex-end;
+  }
+  
+  @media screen and (max-width: 1200px) {
+    .header {
+      max-width: 90%;
+    }
+  }
+  
+  @media screen and (max-width: 800px) {
+    .header {
+      max-width: 94%;
+    }
+  }
+  
+  @media screen and (max-width: 400px) {
+    .header {
+      max-width: 90%;
+    }
+  }

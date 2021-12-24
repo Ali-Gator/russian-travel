@@ -1,0 +1,21 @@
+.places__place {
+    margin-bottom: 81px;
+  }
+  
+  @media screen and (max-width: 1200px) {
+    .places__place {
+      margin-bottom: 83px;
+    }
+  }
+  
+  @media screen and (max-width: 800px) {
+    .places__place {
+      margin-bottom: 73px;
+    }
+  }
+  
+  @media screen and (max-width: 400px) {
+    .places__place {
+      margin-bottom: 50px;
+    }
+  }
